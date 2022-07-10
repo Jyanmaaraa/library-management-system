@@ -1,0 +1,7 @@
+Harry Potter,Jk Rowling,18,$4
+Start With Why,Simon Sinek,15,$3.5
+Programming,Jhon Smith,9,$3.5
+IT Networking,William Shakes,13,$5
+The Castle,Firdausi,11,$4
+Fear of Flying,Erica Jong,7,$5.5
+Python program,bishwas limbu,15,$3.0
